@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&ring=FF0000)](https://git.io/streak-stats)" />
+![GitHub Stats](https://streak-stats.demolab.com?user=saptapanBarua&theme=blue-green&hide_border=true)
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptapanBarua&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="saptapanBarua's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=saptapanBarua&theme=blue-green&show_icons=true&hide_border=true&count_private=false" alt="saptapanBarua's GitHub Stats" />
