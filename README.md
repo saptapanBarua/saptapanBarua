@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-<img src="https://streak-stats.demolab.com?user=saptapanBarua&theme=blue-green&hide_border=true" alt="">
+
+![](https://nirzak-streak-stats.vercel.app/?user=saptapanBarua&theme=python-dark&hide_border=false&hide_border=true&ring=FF0000)<br/>
+
 <!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saptapanBarua&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="saptapanBarua's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=saptapanBarua&theme=blue-green&show_icons=true&hide_border=true&count_private=false" alt="saptapanBarua's GitHub Stats" />
+![](https://github-readme-stats.vercel.app/api?username=saptapanBarua&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saptapanBarua&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**saptapanBarua/saptapanBarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <!--
-**saptapanBarua/saptapanBarua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
