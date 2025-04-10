@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=saptapanBarua&theme=python-dark&hide_border=false&hide_border=true&ring=FF0000)<br/>
+![Github Streak](https://nirzak-streak-stats.vercel.app/?user=saptapanBarua&theme=python-dark&hide_border=true&ring=FF0000)<br/>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=saptapanBarua&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
